@@ -1,0 +1,20 @@
+{
+    "name": "@uit/component-base",
+    "version": "0.0.0",
+    "publishConfig": {
+      "access": "public"
+    },
+    "description": "component-base",
+    "license": "Apache-2.0",
+    "main": "component-base.js",
+    "module": "component-base.js",
+    "type": "module",
+    "dependencies": {
+      "lit": "^2.0.0"
+    },
+    "web-types": [
+      "web-types.json",
+      "web-types.lit.json"
+    ]
+  }
+  

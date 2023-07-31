@@ -1,0 +1,19 @@
+{
+  "name": "@ace-lib/button",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "button",
+  "license": "Apache-2.0",
+  "main": "button.js",
+  "module": "button.js",
+  "type": "module",
+  "dependencies": {
+    "lit": "^2.0.0"
+  },
+  "web-types": [
+    "web-types.json",
+    "web-types.lit.json"
+  ]
+}

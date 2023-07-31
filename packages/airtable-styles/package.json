@@ -1,0 +1,19 @@
+{
+    "name": "@web-components/airtable-styles",
+    "version": "0.0.0",
+    "publishConfig": {
+      "access": "public"
+    },
+    "description": "airtable-styles",
+    "main": "all-imports.js",
+    "module": "all-imports.js",
+    "type": "module",
+    "dependencies": {
+      "lit": "^2.0.0"
+    },
+    "web-types": [
+      "web-types.json",
+      "web-types.lit.json"
+    ]
+  }
+  
